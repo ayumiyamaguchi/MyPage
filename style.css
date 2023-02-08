@@ -2,3 +2,15 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+h1 {
+  text-align: center;
+  color: rgb(255, 102, 133);
+  background-color: rgb(188, 78, 100);
+}
+.curiosidades {
+  text-align: center;
+}
+.lista {
+  background-color: rgb(255, 168, 186);
+}
